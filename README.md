@@ -1,5 +1,5 @@
 # effective-octo-goggles
 
-Hi Humans!
+Hi!
 
 Robot here, My master is now offline, please try again later.
